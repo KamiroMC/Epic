@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-10-07 21:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-10-04 19:50:35 +0000"
@@ -1007,7 +1013,8 @@
       "minecraft:creeper": "2024-10-04 20:12:38 +0000",
       "minecraft:witch": "2024-10-07 19:22:01 +0000",
       "minecraft:piglin": "2024-10-07 19:57:06 +0000",
-      "minecraft:zombie": "2024-10-04 19:50:29 +0000"
+      "minecraft:zombie": "2024-10-04 19:50:29 +0000",
+      "minecraft:zombie_villager": "2024-10-07 21:44:22 +0000"
     },
     "done": false
   },
@@ -1230,6 +1237,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-10-04 19:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-10-07 21:43:51 +0000"
     },
     "done": true
   },
@@ -1950,6 +1963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-10-07 21:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-10-04 19:50:31 +0000"
@@ -2170,6 +2189,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-10-07 19:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-10-07 21:41:41 +0000"
     },
     "done": true
   },
