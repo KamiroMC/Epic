@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-10-07 19:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-10-04 20:12:39 +0000"
@@ -599,6 +605,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-10-07 19:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-10-07 19:40:40 +0000"
     },
     "done": true
   },
@@ -1176,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-10-07 19:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-10-07 19:30:03 +0000"
@@ -1250,6 +1268,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-10-07 19:40:32 +0000",
       "minecraft:birch_forest": "2024-10-04 20:05:24 +0000",
       "minecraft:beach": "2024-10-04 19:49:58 +0000",
       "minecraft:dark_forest": "2024-10-04 19:54:58 +0000",
