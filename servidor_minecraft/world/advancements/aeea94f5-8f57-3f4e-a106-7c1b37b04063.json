@@ -1317,7 +1317,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-10-07 21:31:54 +0000",
-      "minecraft:nether_wastes": "2024-10-09 16:25:44 +0000"
+      "minecraft:nether_wastes": "2024-10-09 16:25:44 +0000",
+      "minecraft:soul_sand_valley": "2024-10-09 16:33:14 +0000",
+      "minecraft:basalt_deltas": "2024-10-09 16:35:57 +0000"
     },
     "done": false
   },
@@ -1528,6 +1530,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-10-04 19:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-10-09 16:35:13 +0000"
     },
     "done": true
   },
